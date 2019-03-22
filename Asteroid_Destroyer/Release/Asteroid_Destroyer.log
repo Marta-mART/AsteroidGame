@@ -1,0 +1,8 @@
+﻿  Animation.cpp
+Animation.cpp(13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+Animation.cpp(14): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  All 243 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Asteroid_Destroyer.vcxproj -> C:\Users\Martella\documents\visual studio 2015\Projects\Asteroid_Destroyer\Release\Asteroid_Destroyer.exe
+  Asteroid_Destroyer.vcxproj -> C:\Users\Martella\documents\visual studio 2015\Projects\Asteroid_Destroyer\Release\Asteroid_Destroyer.pdb (Full PDB)
